@@ -19,27 +19,38 @@ http://dude.docking.org/datasets
 ## Genomics
 *GEO
 https://www.ncbi.nlm.nih.gov/geo/
+
 *KEGG 
 https://www.genome.jp/kegg/
+
 *OMIM
 https://www.omim.org/
+
 *PheGenI
 https://www.ncbi.nlm.nih.gov/gap/phegeni
+
 *HGNC
 https://www.genenames.org/
+
 *DepMap
 https://depmap.org/portal/
+
 *TCGA
 https://portal.gdc.cancer.gov/
+
 *ICGC
 https://icgc.org/
+
 *cBioPortal
 https://www.cbioportal.org/
 
+*LINCS
+http://lincsportal.ccs.miami.edu/dcic-portal/
 
 ## GO Analysis
 *DAVID
 https://david.ncifcrf.gov/
+
 
 
 To be updated...
