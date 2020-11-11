@@ -80,23 +80,19 @@ https://omics.bjcancer.org/pina/
 
 http://www.interactome-atlas.org/
 
+- ClueGO
+
+http://apps.cytoscape.org/apps/cluego
+
+- Cytoscape
+
+https://cytoscape.org/
 
 
 ## GO Analysis
 - DAVID
 
 https://david.ncifcrf.gov/
-
-
-## Functional Enrichment Analysis 
-- ClueGO
-
-http://apps.cytoscape.org/apps/cluego
-
-
-- Cytoscape
-
-https://cytoscape.org/
 
 
 ## Protein Structure 
