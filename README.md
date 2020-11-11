@@ -65,7 +65,10 @@ https://www.cbioportal.org/
 
 http://lincsportal.ccs.miami.edu/dcic-portal/
 
+### Single Cell Genomics 
+- 10x Genomics
 
+https://support.10xgenomics.com/single-cell-gene-expression/datasets/
 
 ## Human Interactome
 - STRING
@@ -106,6 +109,22 @@ https://www.rcsb.org/
 - Schrodinger
 
 https://www.schrodinger.com/
+
+
+## Side Effect 
+- SIDER 4.1
+
+http://sideeffects.embl.de/
+
+- OFFSIDES
+
+http://tatonettilab.org/offsides/
+
+
+## Medical Terminology
+- MedDRA
+
+https://www.meddra.org/
 
 
 
