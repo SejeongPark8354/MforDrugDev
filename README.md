@@ -1,4 +1,4 @@
-# Material for Drug Development using AI
+# Materials for Drug Development using AI
 
 ## Drug dataset (Chem)
 - ZINC15
