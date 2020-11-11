@@ -62,6 +62,20 @@ https://www.cbioportal.org/
 
 http://lincsportal.ccs.miami.edu/dcic-portal/
 
+## Human Interactome
+- STRING
+
+https://string-db.org/
+
+- PINA
+
+https://omics.bjcancer.org/pina/
+
+- HuRI
+
+http://www.interactome-atlas.org/
+
+
 ## GO Analysis
 - DAVID
 
