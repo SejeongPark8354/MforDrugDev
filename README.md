@@ -89,12 +89,12 @@ https://david.ncifcrf.gov/
 
 
 ## Functional Enrichment Analysis 
--ClueGO
+- ClueGO
 
 http://apps.cytoscape.org/apps/cluego
 
 
--Cytoscape
+- Cytoscape
 
 https://cytoscape.org/
 
