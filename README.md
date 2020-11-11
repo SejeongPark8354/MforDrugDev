@@ -73,5 +73,10 @@ https://david.ncifcrf.gov/
 
 https://www.rcsb.org/
 
+## Software
+- Schrodinger
+
+https://www.schrodinger.com/
+
 
 To be updated...
