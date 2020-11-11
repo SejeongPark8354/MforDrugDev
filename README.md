@@ -1,54 +1,54 @@
 # AllforDrugDev
 
 ## Drug dataset (Chem)
-*ZINC15
+ZINC15
 https://zinc15.docking.org/
 
-*MOSES (filtered ZINC)
+MOSES (filtered ZINC)
 https://github.com/molecularsets/moses
 
-*ChEMBL
+ChEMBL
 https://www.ebi.ac.uk/chembl/
 
-*DrugBank
+DrugBank
 https://go.drugbank.com/
 
-*DUD-E
+DUD-E
 http://dude.docking.org/datasets
 
 ## Genomics
-*GEO
+GEO
 https://www.ncbi.nlm.nih.gov/geo/
 
-*KEGG 
+KEGG 
 https://www.genome.jp/kegg/
 
-*OMIM
+OMIM
 https://www.omim.org/
 
-*PheGenI
+PheGenI
 https://www.ncbi.nlm.nih.gov/gap/phegeni
 
-*HGNC
+HGNC
 https://www.genenames.org/
 
-*DepMap
+DepMap
 https://depmap.org/portal/
 
-*TCGA
+TCGA
 https://portal.gdc.cancer.gov/
 
-*ICGC
+ICGC
 https://icgc.org/
 
-*cBioPortal
+cBioPortal
 https://www.cbioportal.org/
 
-*LINCS
+LINCS
 http://lincsportal.ccs.miami.edu/dcic-portal/
 
 ## GO Analysis
-*DAVID
+DAVID
 https://david.ncifcrf.gov/
 
 
