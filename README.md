@@ -2,10 +2,10 @@
 
 ## Drug dataset (Chem)
 - ZINC15
-> https://zinc15.docking.org/
+ https://zinc15.docking.org/
 
 - MOSES (filtered ZINC)
-> https://github.com/molecularsets/moses
+ https://github.com/molecularsets/moses
 
 - ChEMBL
 > https://www.ebi.ac.uk/chembl/
