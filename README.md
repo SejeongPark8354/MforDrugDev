@@ -91,6 +91,11 @@ http://apps.cytoscape.org/apps/cluego
 
 https://cytoscape.org/
 
+## Cancer Cellline Encyclopedia 
+
+- CCLE
+
+https://portals.broadinstitute.org/ccle
 
 ## GO Analysis
 - DAVID
@@ -130,6 +135,12 @@ http://sideeffects.embl.de/
 
 http://tatonettilab.org/offsides/
 
+
+## Drug Sensitivity 
+
+- GDSC 
+
+https://www.cancerrxgene.org/
 
 ## Medical Terminology
 - MedDRA
