@@ -95,7 +95,7 @@ https://cytoscape.org/
 
 https://thebiogrid.org/
 
-## Cancer Cellline Encyclopedia 
+## Cancer Cell Line Encyclopedia 
 
 - CCLE
 
