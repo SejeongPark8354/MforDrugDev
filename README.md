@@ -147,6 +147,12 @@ http://stitch.embl.de/
 
 https://www.schrodinger.com/
 
+- Rosetta
+
+https://www.rosettacommons.org/software
+
+- DMPfold
+
 
 ## Side Effect 
 - SIDER 4.1
