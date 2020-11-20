@@ -118,6 +118,11 @@ https://www.gsea-msigdb.org/gsea/index.jsp
 
 https://maayanlab.cloud/Enrichr/
 
+## Protein Database
+- Uniprot
+
+https://www.uniprot.org/
+
 ## Protein Structure
 - PDB
 
