@@ -151,8 +151,6 @@ https://www.schrodinger.com/
 
 https://www.rosettacommons.org/software
 
-- DMPfold
-
 
 ## Side Effect 
 - SIDER 4.1
