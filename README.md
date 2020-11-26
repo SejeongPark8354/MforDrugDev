@@ -62,6 +62,10 @@ https://icgc.org/
 
 https://www.cbioportal.org/
 
+- COSMIC
+
+https://cancer.sanger.ac.uk/census
+
 ### Drug-induced Gene Expression Profiles
 - LINCS
 
