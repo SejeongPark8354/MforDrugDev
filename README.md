@@ -66,6 +66,10 @@ https://www.cbioportal.org/
 
 https://cancer.sanger.ac.uk/census
 
+- Cancer Hallmarks Genes 
+
+http://bio-bigdata.hrbmu.edu.cn/CHG/index.html
+
 ### Drug-induced Gene Expression Profiles
 - LINCS
 
