@@ -21,6 +21,14 @@ https://go.drugbank.com/
 
 http://dude.docking.org/datasets
 
+## Benchmark dataset
+- MoleculeNet
+
+http://moleculenet.ai/
+
+- GuacaMol
+
+https://www.benevolent.com/guacamol
 
 ## Genomics
 - GEO
