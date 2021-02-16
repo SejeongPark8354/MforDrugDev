@@ -78,6 +78,14 @@ https://cancer.sanger.ac.uk/census
 
 http://bio-bigdata.hrbmu.edu.cn/CHG/index.html
 
+- NCI-60
+
+https://dtp.cancer.gov/discovery_development/nci-60/
+
+- NCI TPW
+
+https://tpwb.nci.nih.gov/GeneExpressionNCI60/TPWorkbench/
+
 ### Drug-induced Gene Expression Profiles
 - LINCS
 
@@ -87,6 +95,15 @@ http://lincsportal.ccs.miami.edu/dcic-portal/
 - 10x Genomics
 
 https://support.10xgenomics.com/single-cell-gene-expression/datasets/
+
+### Pharmacogenomics 
+- PharmGKB
+
+https://www.pharmgkb.org/
+
+- PharmVar
+
+https://www.pharmvar.org/
 
 ## Human Interactome
 - STRING
@@ -183,6 +200,10 @@ http://tatonettilab.org/offsides/
 - GDSC 
 
 https://www.cancerrxgene.org/
+
+- NCI DREAM
+
+http://dreamchallenges.org/project/dream-7-nci-dream-drug-sensitivity-prediction-challenge/
 
 ## Medical Terminology
 - MedDRA
