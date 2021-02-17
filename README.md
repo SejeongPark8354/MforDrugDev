@@ -209,6 +209,10 @@ https://www.schrodinger.com/
 
 https://www.rosettacommons.org/software
 
+- Spark
+
+https://www.cresset-group.com/software/spark/
+
 
 ## Side Effect 
 - SIDER 4.1
