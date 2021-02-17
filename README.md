@@ -122,6 +122,14 @@ https://www.pharmgkb.org/
 
 https://www.pharmvar.org/
 
+- GDSC 
+
+https://www.cancerrxgene.org/
+
+- NCI DREAM
+
+http://dreamchallenges.org/project/dream-7-nci-dream-drug-sensitivity-prediction-challenge/
+
 ## Human Interactome
 - STRING
 
@@ -211,16 +219,6 @@ http://sideeffects.embl.de/
 
 http://tatonettilab.org/offsides/
 
-
-## Drug Sensitivity 
-
-- GDSC 
-
-https://www.cancerrxgene.org/
-
-- NCI DREAM
-
-http://dreamchallenges.org/project/dream-7-nci-dream-drug-sensitivity-prediction-challenge/
 
 ## Medical Terminology
 - MedDRA
