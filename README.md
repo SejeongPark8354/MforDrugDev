@@ -5,6 +5,10 @@
 
 https://zinc15.docking.org/
 
+- ZINC20 
+
+https://zinc20.docking.org/
+
 - MOSES (filtered ZINC)
 
 https://github.com/molecularsets/moses
@@ -12,6 +16,10 @@ https://github.com/molecularsets/moses
 - ChEMBL
 
 https://www.ebi.ac.uk/chembl/
+
+- PubChem
+
+https://pubchem.ncbi.nlm.nih.gov/
 
 - DrugBank
 
