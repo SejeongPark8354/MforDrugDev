@@ -29,6 +29,10 @@ https://go.drugbank.com/
 
 http://dude.docking.org/datasets
 
+- ExCAPE-DB
+
+https://solr.ideaconsult.net/search/excape/
+
 ## Benchmark dataset
 - MoleculeNet
 
