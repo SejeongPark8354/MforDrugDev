@@ -233,6 +233,9 @@ http://tatonettilab.org/offsides/
 
 https://www.meddra.org/
 
+## ADMET
+- admetSAR
 
+http://lmmd.ecust.edu.cn/admetsar2/
 
 To be updated...
