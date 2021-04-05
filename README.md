@@ -238,4 +238,12 @@ https://www.meddra.org/
 
 http://lmmd.ecust.edu.cn/admetsar2/
 
+## Frequently used database in clinical practice
+- UpToDate
+
+https://www.uptodate.com/contents/search
+
+- IBM Micromedex
+
+https://www.micromedexsolutions.com/home/dispatch
 To be updated...
