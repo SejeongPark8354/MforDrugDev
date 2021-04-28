@@ -246,4 +246,9 @@ https://www.uptodate.com/contents/search
 - IBM Micromedex
 
 https://www.micromedexsolutions.com/home/dispatch
+
+## Related good paper
+- A Review of Biomedical Datasets Relating to Drug Discovery: A Knowledge Graph Perspective
+https://arxiv.org/abs/2102.10062
+
 To be updated...
