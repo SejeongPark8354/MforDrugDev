@@ -33,6 +33,10 @@ http://dude.docking.org/datasets
 
 https://solr.ideaconsult.net/search/excape/
 
+- PHAROS 
+
+https://pharos.nih.gov/
+
 ## Benchmark dataset
 - MoleculeNet
 
