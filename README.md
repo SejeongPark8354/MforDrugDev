@@ -111,6 +111,14 @@ https://dtp.cancer.gov/discovery_development/nci-60/
 
 https://tpwb.nci.nih.gov/GeneExpressionNCI60/TPWorkbench/
 
+- CTRP
+
+https://portals.broadinstitute.org/ctrp/
+
+- GDSC 
+
+https://www.cancerrxgene.org/
+
 ### Drug-induced Gene Expression Profiles
 - LINCS
 
@@ -129,10 +137,6 @@ https://www.pharmgkb.org/
 - PharmVar
 
 https://www.pharmvar.org/
-
-- GDSC 
-
-https://www.cancerrxgene.org/
 
 - NCI DREAM
 
