@@ -246,6 +246,16 @@ https://www.meddra.org/
 
 http://lmmd.ecust.edu.cn/admetsar2/
 
+## EHR
+- MIMIC
+
+https://mimic.mit.edu/docs/gettingstarted/
+
+## freely-available medical research data
+- PhysioNet 
+- 
+https://physionet.org/about/database/
+
 ## Frequently used database in clinical practice
 - UpToDate
 
