@@ -253,7 +253,7 @@ https://mimic.mit.edu/docs/gettingstarted/
 
 ## freely-available medical research data
 - PhysioNet 
-- 
+
 https://physionet.org/about/database/
 
 ## Frequently used database in clinical practice
