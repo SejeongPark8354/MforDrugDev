@@ -41,6 +41,10 @@ https://pharos.nih.gov/
 
 https://gdb.unibe.ch/downloads/
 
+- QM
+
+http://quantum-machine.org/datasets/
+
 ## Benchmark dataset
 - MoleculeNet
 
