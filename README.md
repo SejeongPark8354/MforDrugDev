@@ -37,6 +37,10 @@ https://solr.ideaconsult.net/search/excape/
 
 https://pharos.nih.gov/
 
+- GDB
+
+https://gdb.unibe.ch/downloads/
+
 ## Benchmark dataset
 - MoleculeNet
 
