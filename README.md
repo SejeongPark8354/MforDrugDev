@@ -300,6 +300,10 @@ https://www.gromacs.org/
 
 https://ambermd.org/AmberTools.php
 
+- NAMD
+
+https://www.ks.uiuc.edu/Research/namd/
+
 
 ## Related good paper
 - A Review of Biomedical Datasets Relating to Drug Discovery: A Knowledge Graph Perspective
