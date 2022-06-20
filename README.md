@@ -291,6 +291,16 @@ https://www.uptodate.com/contents/search
 
 https://www.micromedexsolutions.com/home/dispatch
 
+## Molecular Dynamics
+- GROMACS
+
+https://www.gromacs.org/
+
+- AmberTools
+
+https://ambermd.org/AmberTools.php
+
+
 ## Related good paper
 - A Review of Biomedical Datasets Relating to Drug Discovery: A Knowledge Graph Perspective
 
