@@ -304,6 +304,9 @@ https://ambermd.org/AmberTools.php
 
 https://www.ks.uiuc.edu/Research/namd/
 
+- Martini (force-field)
+
+http://cgmartini.nl/
 
 ## Related good paper
 - A Review of Biomedical Datasets Relating to Drug Discovery: A Knowledge Graph Perspective
