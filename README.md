@@ -143,6 +143,13 @@ https://www.cancerrxgene.org/
 
 https://www.broadinstitute.org/ctrp
 
+- CellMiner
+
+https://discover.nci.nih.gov/cellminer/home.do
+
+- CellMinerCDB
+
+https://discover.nci.nih.gov/rsconnect/cellminercdb/
 
 
 ### Drug-induced Gene Expression Profiles
