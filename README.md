@@ -56,10 +56,6 @@ https://www.benevolent.com/guacamol
 
 ## Genomics
 
-- NCBI
-
-https://www.ncbi.nlm.nih.gov/
-
 - GEO
 
 https://www.ncbi.nlm.nih.gov/geo/
